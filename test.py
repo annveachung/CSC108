@@ -12,5 +12,3 @@ def repeat_word (word:str, num: int) -> str:
     result =  word + (", " + word) * (num-1)
     return result
     
-
-    

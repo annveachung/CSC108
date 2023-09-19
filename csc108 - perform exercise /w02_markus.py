@@ -37,3 +37,4 @@ def ariana_says(word: str) -> str:
     
     """
     return (word + ', next ') *3 + word
+
